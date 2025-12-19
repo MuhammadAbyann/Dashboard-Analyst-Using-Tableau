@@ -8,7 +8,7 @@ The purpose of this repository is to showcase my ability to:
 - Design clear, interactive, and decision-oriented dashboards  
 - Communicate data effectively through visual storytelling  
 
-📂 Project Structure
+## 📂 Project Structure
 Each project folder contains:
 - Dataset (raw & cleaned)
 - Tableau Workbook (.twbx)
