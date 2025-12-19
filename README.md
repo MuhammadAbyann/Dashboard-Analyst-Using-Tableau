@@ -14,13 +14,13 @@ This repository is organized into multiple folders, where each folder represents
 Dashboard-Analyst-Using-Tableau/
 │
 ├── Project_01_US_Flight_Delay_Analysis/
-│   ├── Dataset/
-│   │   ├── Airline_Delay_Cause.csv
-│   │   └── airportdelaydata.xlsx
-│   │
-│   ├── US_Flight_Delay_Dashboard.png
-│   ├── US_Flight_Delay.twbx
-│   └── Documentation.md
+│ ├── Dataset/
+│ │ ├── Airline_Delay_Cause.csv
+│ │ └── airportdelaydata.xlsx
+│ │
+│ ├── US_Flight_Delay_Dashboard.png
+│ ├── US_Flight_Delay.twbx
+│ └── Documentation.md
 
 Each project generally includes:
 - 📂 **Dataset** – Raw or cleaned data used for analysis  
