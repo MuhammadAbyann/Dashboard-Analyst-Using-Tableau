@@ -8,24 +8,12 @@ The purpose of this repository is to showcase my ability to:
 - Design clear, interactive, and decision-oriented dashboards  
 - Communicate data effectively through visual storytelling  
 
-## 📁 Repository Structure
-This repository is organized into multiple folders, where each folder represents a **Tableau project or case study**.
-
-Dashboard-Analyst-Using-Tableau/
-│
-├── Project_01_US_Flight_Delay_Analysis/
-│ ├── Dataset/
-│ │ ├── Airline_Delay_Cause.csv
-│ │ └── airportdelaydata.xlsx
-│ │
-│ ├── US_Flight_Delay_Dashboard.png
-│ ├── US_Flight_Delay.twbx
-│ └── Documentation.md
-
-Each project generally includes:
-- 📂 **Dataset** – Raw or cleaned data used for analysis  
-- 📊 **Tableau Workbook (.twb / .twbx)** – Interactive dashboard  
-- 📝 **Documentation** – Case background, objectives, insights, and conclusions  
+📂 Project Structure
+Each project folder contains:
+- Dataset (raw & cleaned)
+- Tableau Workbook (.twbx)
+- Dashboard preview (.png)
+- Detailed documentation (Documentation.md)  
 
 ---
 
